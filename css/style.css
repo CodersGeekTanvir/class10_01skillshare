@@ -44,7 +44,7 @@ body{
     border-radius: 4px;
     font-size: 18px;
     font-weight: 600;
-    display: block;
+    display: inline-block;
     transition-duration: 0.3s;
 }
 .header_button a:hover {
